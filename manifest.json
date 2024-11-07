@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Dev Rahman Scrapper",
-  "description": "Dev Rahman Scrapper The Ultimate Solution",
+  "name": "Dev Rahman Scraper",
+  "description": "Dev Rahman Scraper The Ultimate Solution",
   "version": "1.0.0",
   "action": {
     "default_popup": "popup.html",
